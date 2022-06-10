@@ -1,3 +1,6 @@
+// This function returns palindrome words from an array of strings
+// Definition: Palindrome is a word/sentence that reads the same backward or forward
+
 // function findPalindromes(words) {
 //   let palindromes = [];
 
